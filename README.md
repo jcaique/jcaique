@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcaique (José Caíque)
 - 👀 I’m interested in learn things the more that i can
-- 🌱 I’m currently learning lang programing Delphi (for work) and React JS (for university)
+- 🌱 I’m currently learning the language programing Delphi (for work) and the React JS (for university)
 - 💞️ I’m looking to collaborate on repositories with something that i know
 - 📫 How to reach me jose.silva448@fatec.sp.gov.br || https://bit.ly/3gVwzhP
 
