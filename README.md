@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jcaique (José Caíque)
-- 🌱 I’m currently learning the language programing Delphi (for work)
+- 🌱 I’m a Delphi programmer jr.
+
 - 📫 How to reach me jose.silva448@fatec.sp.gov.br || https://bit.ly/3gVwzhP
-- Open to work/learn/talk
+
+- Open to work/learn/talk/contribute to open source.
 
 <!---
 jcaique/jcaique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
