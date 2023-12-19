@@ -1,6 +1,6 @@
 - 🌱 I’m a Delphi programmer jr.
 
-- 📫 How to reach me jose.silva448@fatec.sp.gov.br || https://bit.ly/3gVwzhP
+- 📫 Contact: Discord: jcaique || wpp https://bit.ly/3gVwzhP
 
 - Open to work/learn/talk/contribute to open source.
 
