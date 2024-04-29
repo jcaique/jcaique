@@ -1,6 +1,6 @@
-- 🌱 I’m a Delphi programmer jr.
+- I’m a Delphi programmer jr.
 
-- 📫 Contact: Discord: jcaique || wpp https://bit.ly/3gVwzhP
+- Contact wpp https://bit.ly/3gVwzhP
 
 - Open to work/learn/talk/contribute to open source.
 
